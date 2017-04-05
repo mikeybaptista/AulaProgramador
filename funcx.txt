@@ -1,0 +1,4 @@
+int nada=0;
+if(nada = 0){
+	System.out.println("Wow");
+}
